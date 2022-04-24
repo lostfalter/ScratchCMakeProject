@@ -1,0 +1,12 @@
+/buildkit/
+build/
+modules/
+.idea/
+.vscode*
+.history
+.DS_Store
+.clangd
+*.pro.user
+*.pyc
+tmp
+centos7.sh
